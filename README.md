@@ -13,5 +13,3 @@ A simple HTML project for The Odin Project Foundations course. This website list
 1. Clone this repository.
 2. Open `index.html` in your browser.
 3. Click on any recipe to view its details.
-
-## Folder Structure
